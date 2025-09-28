@@ -1,108 +1,137 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Seite-1" id="ZfH-P737uRzAbcR32g-Z">
-    <mxGraphModel dx="2610" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="2328" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-1" value="&lt;b&gt;Definitions&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;(EZ)-Aggregator&lt;/li&gt;&lt;li&gt;Solution&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-1" value="&lt;b&gt;Definitions&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;(EZ)-Aggregator&lt;/li&gt;&lt;li&gt;Solution&lt;/li&gt;&lt;li&gt;uniquely evaluable consumption streams&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="350.0022222222222" y="200" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-5" target="wkMzzB-yKLCFpXBGOHoM-1">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-5" target="wkMzzB-yKLCFpXBGOHoM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-5" value="Interpretation of Parameters for EZ-SDU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rounded=1;" vertex="1" parent="1">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-5" value="Interpretation of Parameters for EZ-SDU" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="340.0022222222222" y="50" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" target="wkMzzB-yKLCFpXBGOHoM-12">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" target="wkMzzB-yKLCFpXBGOHoM-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237.17111111111132" y="450.0000000000002" as="sourcePoint" />
             <mxPoint x="111.11263157894751" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" target="wkMzzB-yKLCFpXBGOHoM-19">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" target="wkMzzB-yKLCFpXBGOHoM-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="291.1111111111113" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-6" value="&lt;b&gt;Problem&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Formulation&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="131.11111111111111" y="370" width="80" height="80" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-6" value="&lt;b&gt;Problem&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Formulation&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="124.44111111111111" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-1" target="wkMzzB-yKLCFpXBGOHoM-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="430" as="sourcePoint" />
-            <mxPoint x="440" y="380" as="targetPoint" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" edge="1" target="wkMzzB-yKLCFpXBGOHoM-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="171.11000000000013" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="169.72222222222223" y="282" />
-              <mxPoint x="171.11111111111111" y="358" />
+              <mxPoint x="164" y="540" />
+              <mxPoint x="340" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="171.11000000000013" y="710" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-12" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Necessary Condition&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;for existence of a solution:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;$$ \vartheta &amp;gt; 0$$&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#b85450;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="600" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-12" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Necessary Condition&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;for existence of a solution:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;$$ \vartheta &amp;gt; 0$$&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-80.00000000000001" y="585" width="170" height="80" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-15" value="\( S \) and \(R\) are always on the same side of unity \( (1) \)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-15" value="\( S \) and \(R\) are always on the same side of unity \( (1) \)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="560" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-19" target="wkMzzB-yKLCFpXBGOHoM-29">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-19" target="wkMzzB-yKLCFpXBGOHoM-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-19" value="&lt;b&gt;Heuristically&lt;/b&gt; find candidate optimal strategy" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=none;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="530" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-19" value="&lt;b&gt;Heuristically&lt;/b&gt; find candidate optimal strategy" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e6d0de;gradientColor=#d5739d;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="810" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.024;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-15" target="wkMzzB-yKLCFpXBGOHoM-12">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-15" target="wkMzzB-yKLCFpXBGOHoM-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="540" as="sourcePoint" />
             <mxPoint x="190" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;shape=flexArrow;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-27" target="wkMzzB-yKLCFpXBGOHoM-19">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;shape=flexArrow;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-27" target="wkMzzB-yKLCFpXBGOHoM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-27" value="&lt;b&gt;Classical Merton Problem&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="700" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-27" value="&lt;b&gt;Classical Merton Problem&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="980" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-29" target="wkMzzB-yKLCFpXBGOHoM-34">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-29" target="wkMzzB-yKLCFpXBGOHoM-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-29" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Optimality of candidate proportional investment-consumption strategy over all prop. inv.-cons.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;pairs.&lt;/i&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;gradientColor=default;arcSize=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="500" y="690" width="290" height="80" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-29" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Optimality of candidate proportional investment-consumption strategy over all prop. inv.-cons.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;pairs.&lt;/i&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="780" y="690" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-34" value="Utility Process is also defined." style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;rounded=1;gradientColor=none;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="585" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-34" value="Utility Process is also defined." style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;arcSize=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="865" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170.00267605633792" y="775" as="sourcePoint" />
-            <mxPoint x="170.03084507042252" y="895" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-38" value="Transformation of&amp;nbsp;&lt;div&gt;Coordinate System&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#996185;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e6d0de;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-38" value="Transformation of&amp;nbsp;&lt;div&gt;Coordinate System&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="111.11" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-41" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Existence and Uniqueness of Utility Processes for some subclass of consumption processes&lt;/i&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="204.44" y="890" width="271.11" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-41" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Existence and Uniqueness of Utility Processes for some subclass of consumption processes&lt;/i&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="35.56" y="890" width="271.11" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-43" value="&lt;b&gt;Change of Numéraire &lt;/b&gt;lets us get rid of discount factor" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-43" value="&lt;b&gt;Change of Numéraire &lt;/b&gt;lets us get rid of discount factor" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="-280" y="370" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-43" target="wkMzzB-yKLCFpXBGOHoM-6">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-43" target="wkMzzB-yKLCFpXBGOHoM-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="740" as="sourcePoint" />
             <mxPoint x="450" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;shape=flexArrow;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="835" as="targetPoint" />
+        <mxCell id="o4iry1kajarjaH2vr438-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-46" target="wkMzzB-yKLCFpXBGOHoM-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="850" as="sourcePoint" />
+            <mxPoint x="230" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-46" value="Fixed Point Argument" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="360" y="790" width="156.67" height="90" as="geometry" />
+        <mxCell id="o4iry1kajarjaH2vr438-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-1" target="wkMzzB-yKLCFpXBGOHoM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-38" target="wkMzzB-yKLCFpXBGOHoM-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="660" as="sourcePoint" />
+            <mxPoint x="340" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-46" value="Fixed Point Argument" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#23445d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#bac8d3;" parent="1" vertex="1">
+          <mxGeometry x="261.65999999999997" y="710" width="156.67" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="590" as="sourcePoint" />
+            <mxPoint x="640" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164" y="540" />
+              <mxPoint x="640" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="o4iry1kajarjaH2vr438-8" target="o4iry1kajarjaH2vr438-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-8" value="&lt;b&gt;Defintion&lt;/b&gt;&lt;div&gt;Sub- and Supersolution&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="580" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="o4iry1kajarjaH2vr438-9" target="o4iry1kajarjaH2vr438-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-9" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;Comparison Theorem&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o4iry1kajarjaH2vr438-11" value="If aggr. random field \( \) satisfies some assumption then every evaluable consumption stream is &lt;b&gt;uniquely evaluable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
