@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.5">
   <diagram id="dEmclc_T6QgUYrJKaPmK" name="Problem">
-    <mxGraphModel dx="61729" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="62748" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,58 +233,58 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-1" value="&lt;b&gt;Proposition 5.3&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-59250" y="950" width="120" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-1" value="&lt;b&gt;Proposition 5.3&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-59430" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-2" value="&lt;b&gt;Free&lt;/b&gt;&lt;div&gt;&lt;b&gt;Boundary&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Problem&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-59230" y="820" width="80" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-2" value="&lt;b&gt;Free&lt;/b&gt;&lt;div&gt;&lt;b&gt;Boundary&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Problem&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-59410" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-1" target="UztDcWftkjGKVwiWIh5H-2">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UztDcWftkjGKVwiWIh5H-1" target="UztDcWftkjGKVwiWIh5H-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-59220" y="1010" as="sourcePoint" />
-            <mxPoint x="-59170" y="960" as="targetPoint" />
+            <mxPoint x="-59430" y="200" as="sourcePoint" />
+            <mxPoint x="-59380" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-4" value="&lt;b&gt;Proposition A.1&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-59460" y="870" width="120" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-4" value="&lt;b&gt;Proposition A.1&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-59760" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-4" target="UztDcWftkjGKVwiWIh5H-1">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UztDcWftkjGKVwiWIh5H-4" target="UztDcWftkjGKVwiWIh5H-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-59220" y="1010" as="sourcePoint" />
-            <mxPoint x="-59170" y="960" as="targetPoint" />
+            <mxPoint x="-59460" y="320" as="sourcePoint" />
+            <mxPoint x="-59410" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-7">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="UztDcWftkjGKVwiWIh5H-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-59510" y="960" as="sourcePoint" />
-            <mxPoint x="-59460" y="910" as="targetPoint" />
+            <mxPoint x="-59750" y="270" as="sourcePoint" />
+            <mxPoint x="-59700" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-7" value="Suppose \( R &amp;lt; 1 \) and that \( m(0), m(1)&amp;gt; 0 \).&lt;div&gt;Then one can distinguish different cases.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case A: &lt;/b&gt;\( q_M \in (0,1) \)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case B&lt;/b&gt;: \( q_M = 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case C&lt;/b&gt;: \( q_M &amp;gt; 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case D&lt;/b&gt;: \( q_M &amp;lt;0 \)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-59720" y="960" width="280" height="130" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-7" value="Suppose \( R &amp;lt; 1 \) and that \( m(0), m(1)&amp;gt; 0 \).&lt;div&gt;Then one can distinguish different cases.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case A: &lt;/b&gt;\( q_M \in (0,1) \)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case B&lt;/b&gt;: \( q_M = 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case C&lt;/b&gt;: \( q_M &amp;gt; 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Case D&lt;/b&gt;: \( q_M &amp;lt;0 \)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-59840" y="340" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-8" value="Need to show existence and uniqueness for an IVP." style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-60010" y="850" width="210" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-8" value="Need to show existence and uniqueness for an IVP." style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-60330" y="270" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-8" target="UztDcWftkjGKVwiWIh5H-7">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UztDcWftkjGKVwiWIh5H-8" target="UztDcWftkjGKVwiWIh5H-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-59650" y="1030" as="sourcePoint" />
-            <mxPoint x="-59600" y="980" as="targetPoint" />
+            <mxPoint x="-59890" y="340" as="sourcePoint" />
+            <mxPoint x="-59840" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-10" target="UztDcWftkjGKVwiWIh5H-7">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="UztDcWftkjGKVwiWIh5H-10" target="UztDcWftkjGKVwiWIh5H-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-10" value="For each case argue how to define the right endpoint \( \zeta^+(z) \) given&amp;nbsp;&lt;div&gt;left-endpoint \( z \).&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-60060" y="985" width="210" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-10" value="For each case argue how to define the right endpoint \( \zeta^+(z) \) given&amp;nbsp;&lt;div&gt;left-endpoint \( z \).&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-60320" y="365" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-12" value="Show properties for \( m \) which are&lt;div&gt;used for the proof of properties of \( n_{(z)}^+\)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="-60080" y="1150" width="220" height="80" as="geometry" />
+        <mxCell id="UztDcWftkjGKVwiWIh5H-12" value="Show properties for \( m \) which are&lt;div&gt;used for the proof of properties of \( n_{(z)}^+\)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="-60320" y="460" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UztDcWftkjGKVwiWIh5H-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UztDcWftkjGKVwiWIh5H-12" target="UztDcWftkjGKVwiWIh5H-7">
+        <mxCell id="UztDcWftkjGKVwiWIh5H-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UztDcWftkjGKVwiWIh5H-12" target="UztDcWftkjGKVwiWIh5H-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-59630" y="1140" as="sourcePoint" />
-            <mxPoint x="-59580" y="1090" as="targetPoint" />
+            <mxPoint x="-59870" y="450" as="sourcePoint" />
+            <mxPoint x="-59820" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
