@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Seite-1" id="ZfH-P737uRzAbcR32g-Z">
-    <mxGraphModel dx="2328" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="2123" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="wkMzzB-yKLCFpXBGOHoM-6" value="&lt;b&gt;Problem&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Formulation&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="124.44111111111111" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wkMzzB-yKLCFpXBGOHoM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" edge="1" target="wkMzzB-yKLCFpXBGOHoM-38">
+        <mxCell id="wkMzzB-yKLCFpXBGOHoM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" target="wkMzzB-yKLCFpXBGOHoM-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="171.11000000000013" y="710" as="targetPoint" />
             <Array as="points">
@@ -84,13 +84,13 @@
             <mxPoint x="450" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-46" target="wkMzzB-yKLCFpXBGOHoM-41">
+        <mxCell id="o4iry1kajarjaH2vr438-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-46" target="wkMzzB-yKLCFpXBGOHoM-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="850" as="sourcePoint" />
             <mxPoint x="230" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-1" target="wkMzzB-yKLCFpXBGOHoM-6">
+        <mxCell id="o4iry1kajarjaH2vr438-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-1" target="wkMzzB-yKLCFpXBGOHoM-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="460" as="sourcePoint" />
             <mxPoint x="280" y="410" as="targetPoint" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-38" target="wkMzzB-yKLCFpXBGOHoM-46">
+        <mxCell id="o4iry1kajarjaH2vr438-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-38" target="wkMzzB-yKLCFpXBGOHoM-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="660" as="sourcePoint" />
             <mxPoint x="340" y="890" as="targetPoint" />
@@ -108,7 +108,7 @@
         <mxCell id="wkMzzB-yKLCFpXBGOHoM-46" value="Fixed Point Argument" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#23445d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#bac8d3;" parent="1" vertex="1">
           <mxGeometry x="261.65999999999997" y="710" width="156.67" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6">
+        <mxCell id="o4iry1kajarjaH2vr438-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wkMzzB-yKLCFpXBGOHoM-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="590" as="sourcePoint" />
             <mxPoint x="640" y="590" as="targetPoint" />
@@ -118,20 +118,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="o4iry1kajarjaH2vr438-8" target="o4iry1kajarjaH2vr438-9">
+        <mxCell id="o4iry1kajarjaH2vr438-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="o4iry1kajarjaH2vr438-8" target="o4iry1kajarjaH2vr438-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-8" value="&lt;b&gt;Defintion&lt;/b&gt;&lt;div&gt;Sub- and Supersolution&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+        <mxCell id="o4iry1kajarjaH2vr438-8" value="&lt;b&gt;Defintion&lt;/b&gt;&lt;div&gt;Sub- and Supersolution&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="580" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" edge="1" parent="1" source="o4iry1kajarjaH2vr438-9" target="o4iry1kajarjaH2vr438-11">
+        <mxCell id="o4iry1kajarjaH2vr438-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="1" source="o4iry1kajarjaH2vr438-9" target="o4iry1kajarjaH2vr438-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-9" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;Comparison Theorem&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="o4iry1kajarjaH2vr438-9" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;Comparison Theorem&lt;/div&gt;&lt;div&gt;necessary \( \vartheta \in (0,1] \)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;align=center;verticalAlign=middle;arcSize=8;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="560" y="720" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o4iry1kajarjaH2vr438-11" value="If aggr. random field \( \) satisfies some assumption then every evaluable consumption stream is &lt;b&gt;uniquely evaluable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="o4iry1kajarjaH2vr438-11" value="If aggr. random field \( \) satisfies some assumption then every evaluable consumption stream is &lt;b&gt;uniquely evaluable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="580" y="890" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0sKGy4IUcF8p_DJAUT_K-3" target="wkMzzB-yKLCFpXBGOHoM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-3" value="&lt;b&gt;Setup&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Financial Markets&lt;/li&gt;&lt;li&gt;Admissible Strategies&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkMzzB-yKLCFpXBGOHoM-41" target="0sKGy4IUcF8p_DJAUT_K-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="900" as="sourcePoint" />
+            <mxPoint x="500" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o4iry1kajarjaH2vr438-11" target="0sKGy4IUcF8p_DJAUT_K-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1060" as="sourcePoint" />
+            <mxPoint x="685" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0sKGy4IUcF8p_DJAUT_K-6" target="0sKGy4IUcF8p_DJAUT_K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-6" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Existence of an unique generalised utility process associated to \( (g_{EZ}, C) \)&lt;/i&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="549.45" y="1040" width="271.11" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sKGy4IUcF8p_DJAUT_K-7" value="&lt;b&gt;Theorem&lt;/b&gt;&lt;div&gt;&lt;i&gt;Verification Theorem&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;i&gt;Apply Itô&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Use HJB to show that \( \hat{V}(X^{\pi, C})\) is a supersolution associated to \( (g_{EZ}, C)\)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Comparison to show candidate optimal value is bigger&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="625.01" y="1200" width="384.99" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
